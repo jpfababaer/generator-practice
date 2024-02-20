@@ -1,5 +1,7 @@
 # Rails Template
 
+NOTE: THIS REPOSITORY SERVES AS EXTRA REVIEW IN HOW TO USE GENERATORS.
+
 This is a base Ruby on Rails repository configured for learning with Codespaces (and Gitpod).
 
 - Ruby version: `3.2.1`
